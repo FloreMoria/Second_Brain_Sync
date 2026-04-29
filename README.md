@@ -1,0 +1,2 @@
+# Second_Brain_Sync
+Obsidian_second_brain
